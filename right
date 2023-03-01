@@ -128,7 +128,7 @@ coroutine.wrap(function()
     end
 end){}
 if CheckIfChar("HumanoidRootPart") and CheckIfChar("Humanoid") then
-    plr.Character.HumanoidRootPart.CFrame = CFrame.new(1670, 232, 222)
+    plr.Character.HumanoidRootPart.CFrame = CFrame.new(location)
 end
 end
 
