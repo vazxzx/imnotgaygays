@@ -1,3 +1,4 @@
+local location
 -- Delay function for 5-10 seconds
 local function delay()
     local delayTime = math.random(15, 16)
